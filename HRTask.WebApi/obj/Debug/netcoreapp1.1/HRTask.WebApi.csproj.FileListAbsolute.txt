@@ -1,0 +1,9 @@
+C:\Users\mubarak\Desktop\HRTask\HR\HRTask.WebApi\bin\Debug\netcoreapp1.1\HRTask.WebApi.deps.json
+C:\Users\mubarak\Desktop\HRTask\HR\HRTask.WebApi\bin\Debug\netcoreapp1.1\HRTask.WebApi.runtimeconfig.json
+C:\Users\mubarak\Desktop\HRTask\HR\HRTask.WebApi\bin\Debug\netcoreapp1.1\HRTask.WebApi.runtimeconfig.dev.json
+C:\Users\mubarak\Desktop\HRTask\HR\HRTask.WebApi\bin\Debug\netcoreapp1.1\HRTask.WebApi.dll
+C:\Users\mubarak\Desktop\HRTask\HR\HRTask.WebApi\bin\Debug\netcoreapp1.1\HRTask.WebApi.pdb
+C:\Users\mubarak\Desktop\HRTask\HR\HRTask.WebApi\obj\Debug\netcoreapp1.1\HRTask.WebApi.csprojResolveAssemblyReference.cache
+C:\Users\mubarak\Desktop\HRTask\HR\HRTask.WebApi\obj\Debug\netcoreapp1.1\HRTask.WebApi.AssemblyInfo.cs
+C:\Users\mubarak\Desktop\HRTask\HR\HRTask.WebApi\obj\Debug\netcoreapp1.1\HRTask.WebApi.dll
+C:\Users\mubarak\Desktop\HRTask\HR\HRTask.WebApi\obj\Debug\netcoreapp1.1\HRTask.WebApi.pdb

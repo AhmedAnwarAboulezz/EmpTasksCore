@@ -1,0 +1,9 @@
+C:\Users\mubarak\Desktop\HRTask\HR\HRTask.Model\bin\Debug\netcoreapp1.1\HRTask.Model.deps.json
+C:\Users\mubarak\Desktop\HRTask\HR\HRTask.Model\bin\Debug\netcoreapp1.1\HRTask.Model.dll
+C:\Users\mubarak\Desktop\HRTask\HR\HRTask.Model\bin\Debug\netcoreapp1.1\HRTask.Model.pdb
+C:\Users\mubarak\Desktop\HRTask\HR\HRTask.Model\obj\Debug\netcoreapp1.1\HRTask.Model.AssemblyInfo.cs
+C:\Users\mubarak\Desktop\HRTask\HR\HRTask.Model\obj\Debug\netcoreapp1.1\HRTask.Model.dll
+C:\Users\mubarak\Desktop\HRTask\HR\HRTask.Model\obj\Debug\netcoreapp1.1\HRTask.Model.pdb
+C:\Users\mubarak\Desktop\HRTask\HR\HRTask.Model\obj\Debug\netcoreapp1.1\HRTask.Model.csprojAssemblyReference.cache
+C:\Users\mubarak\Desktop\HRTask\HR\HRTask.Model\obj\Debug\netcoreapp1.1\HRTask.Model.csproj.CoreCompileInputs.cache
+C:\Users\mubarak\Desktop\HRTask\HR\HRTask.Model\obj\Debug\netcoreapp1.1\HRTask.Model.AssemblyInfoInputs.cache

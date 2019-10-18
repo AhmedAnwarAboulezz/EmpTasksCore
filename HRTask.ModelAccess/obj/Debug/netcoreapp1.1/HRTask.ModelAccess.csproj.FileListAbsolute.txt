@@ -1,0 +1,9 @@
+C:\Users\mubarak\Desktop\HRTask\HR\HRTask.ModelAccess\bin\Debug\netcoreapp1.1\HRTask.ModelAccess.deps.json
+C:\Users\mubarak\Desktop\HRTask\HR\HRTask.ModelAccess\bin\Debug\netcoreapp1.1\HRTask.ModelAccess.dll
+C:\Users\mubarak\Desktop\HRTask\HR\HRTask.ModelAccess\bin\Debug\netcoreapp1.1\HRTask.ModelAccess.pdb
+C:\Users\mubarak\Desktop\HRTask\HR\HRTask.ModelAccess\obj\Debug\netcoreapp1.1\HRTask.ModelAccess.AssemblyInfo.cs
+C:\Users\mubarak\Desktop\HRTask\HR\HRTask.ModelAccess\obj\Debug\netcoreapp1.1\HRTask.ModelAccess.dll
+C:\Users\mubarak\Desktop\HRTask\HR\HRTask.ModelAccess\obj\Debug\netcoreapp1.1\HRTask.ModelAccess.pdb
+C:\Users\mubarak\Desktop\HRTask\HR\HRTask.ModelAccess\obj\Debug\netcoreapp1.1\HRTask.ModelAccess.csprojAssemblyReference.cache
+C:\Users\mubarak\Desktop\HRTask\HR\HRTask.ModelAccess\obj\Debug\netcoreapp1.1\HRTask.ModelAccess.csproj.CoreCompileInputs.cache
+C:\Users\mubarak\Desktop\HRTask\HR\HRTask.ModelAccess\obj\Debug\netcoreapp1.1\HRTask.ModelAccess.AssemblyInfoInputs.cache
